@@ -27,10 +27,9 @@
     }
 
     &:not(:disabled):hover {
-      background: #e559f9;
-      color: #fff;
-      border: 1px solid #e559f9;
-      filter: brightness(0.9);
+      background: #835afd; 
+      color:#fff;
+      filter: brightness(0.8);
     }
 
     &:disabled {
