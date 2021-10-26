@@ -1,23 +1,25 @@
 
-<h1 align="center">
-    <img alt= " " title="Logo Letmeask" src="/image/logo_01.svg" width="220px" />
+  <h1 align="center">
+    <img alt= " " title="Logo Letmeask" src="./src/assets/images/logo.svg" width="180px" />
   </h1>
   
+ <br>
  <p align="center">
 	    <a href="#-tecnologias">Tecnologias</a>
-	</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 	    <a href="#memo-licença">Licença</a>
     </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	    <a href="#-Projeto">Projeto</a>
+	    <a href="#-projeto">Projeto</a> 
 	</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-	    <a href="#-Demo">Demo</a>
-  </p>
+	    <a href="#-demo">Demo</a>
+<br>
 
-  
+</p>
+    <h1 align="center">
+    <img src='./src/assets/Readme/Animation.gif' />
+</h1>
 
-
-
-  <br>
+<br>
   
   <p align="center">
     <img alt="" src="/image/2021-07-18 15-02-12_Trim.mp4" width="450px">
@@ -52,4 +54,4 @@ https://letmeask-36f9b.web.app
  Made with 💜 by Victor Rosa 👋, [see my linkedin](https://www.linkedin.com/in/victor-rosaa)
   </body>
   </html>
-To learn React, check out the [React documentation](https://reactjs.org/).
+
