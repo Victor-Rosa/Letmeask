@@ -52,7 +52,7 @@ export function Home(){
       return;
     }
 
-    history.push(`rooms/${roomCode}`);
+    history.push(`/rooms/${roomCode}`);
   }
 
 

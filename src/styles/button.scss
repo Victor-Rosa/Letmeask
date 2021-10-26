@@ -27,7 +27,10 @@
     }
 
     &:not(:disabled):hover {
-      filter: brightness(0.8);
+      background: #e559f9;
+      color: #fff;
+      border: 1px solid #e559f9;
+      filter: brightness(0.9);
     }
 
     &:disabled {
