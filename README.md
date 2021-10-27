@@ -27,8 +27,8 @@
   
 ## 💻 Projeto
   
-Uma página de Login simples.
- o entuito do projeto é testar os meus primeiros passos com ReactJS, e entender o Styled-Components  
+O Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público e interagir com eles em tempo real, simultaneamente.
+No projeto você faz o login com sua própia conta do google e assim podendo criar sua própia sala; o seu público, pode acessar a mesma, através de um código que é exibido no topo da sua sala, basta você compartilhar o código que qualquer um pode entrar e interagir com você. Na visão do administrador da sala é possível marcar as perguntas como respondida, destaca-lás para o seu público e excluir-lás. Já na visão do público é possível criar sua própia pergunta e curtir as dúvidas mais interessantes dos usuários.
 
 ## 💻 Demo
 https://letmeask-36f9b.web.app
